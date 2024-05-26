@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "70f0b881aa4a41d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54749d5db1a3834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "967dff594b3b5bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Законы фотоэффекта/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0234935227eef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "64561fcf94fd6902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6147ce8d604b68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a4c9256d7c61faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9172435869e59481",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d163038b3344510",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f3b10aa63a1946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf04027edfb72fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Законы фотоэффекта/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a374f4419b28651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Законы фотоэффекта/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68eed5eb572e4ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ae61ca050544301",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Законы фотоэффекта/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "967dff594b3b5bdc",
+  "lastOpenFiles": [
+    "README.md",
+    "2. Зависимость фототока от напряжения/README.md",
+    "3. Законы фотоэффекта/README.md",
+    "4. Гипотеза Планка о квантах/README.md",
+    "1. Фотоэффект/README.md",
+    "3. Законы фотоэффекта/img3/Pasted image 20240526215056.png",
+    "Pasted.md",
+    "2. Зависимость фототока от напряжения/img2/Pasted image 20240526214741.png",
+    "1. Фотоэффект/img1/Pasted image 20240526214440.png",
+    "2. Зависимость фототока от напряжения/img2",
+    "3. Законы фотоэффекта/img3",
+    "4. Гипотеза Планка о квантах/img4",
+    "1. Фотоэффект/img1",
+    "4. Гипотеза Планка о квантах",
+    "3. Законы фотоэффекта",
+    "2. Зависимость фототока от напряжения",
+    "1. Фотоэффект"
+  ]
+}
